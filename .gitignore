@@ -1,6 +1,6 @@
 *.pptx
 steganography.py
-gitignore
+.gitignore
 decryption.py
 encryption.py
 gui.py
