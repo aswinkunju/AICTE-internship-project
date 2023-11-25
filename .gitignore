@@ -1,0 +1,7 @@
+*.pptx
+steganography.py
+gitignore
+decryption.py
+encryption.py
+gui.py
+main.py
